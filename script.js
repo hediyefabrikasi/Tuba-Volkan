@@ -2,7 +2,7 @@
    CONFIG (EDIT HERE)
 ===================== */
 
-const customerName = "Tuba ❤️ Volkan";
+const customerName = "Tuğba ❤️ Volkan";
 
 const images = [
   "images/1.jpg",
